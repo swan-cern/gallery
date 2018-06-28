@@ -1,36 +1,32 @@
 [submodule "basic"]
 	path = basic
-	url = https://github.com/dpiparo/swanExamples.git
+	url = https://github.com/diocas/swanExamples.git
 	branch = master
 [submodule "root_primer"]
 	path = root_primer
-	url = https://github.com/root-project/training.git
+	url = https://github.com/diocas/training.git
 	branch = master
 [submodule "accelerator_complex"]
 	path = accelerator_complex
-	url = https://github.com/rdemaria/pytimber.git
+	url = https://github.com/diocas/pytimber.git
 	branch = master
 [submodule "fcc"]
 	path = fcc
-	url = https://github.com/HEP-FCC/fcc-tutorials.git
+	url = https://github.com/diocas/fcc-tutorials.git
 	branch = master
 [submodule "beams_dynamics"]
 	path = beams_dynamics
-	url = https://github.com/PyCOMPLETE/PyHEADTAIL-playground.git
+	url = https://github.com/diocas/PyHEADTAIL-playground.git
 	branch = master
 [submodule "machine_learning"]
 	path = machine_learning
-	url = https://github.com/iml-wg/tmvatutorials.git
+	url = https://github.com/diocas/tmvatutorials.git
 	branch = master
 [submodule "apache_spark1"]
 	path = apache_spark1
-	url = https://github.com/prasanthkothuri/swan-spark-notebooks.git
+	url = https://github.com/diocas/swan-spark-notebooks.git
 	branch = master
 [submodule "apache_spark2"]
 	path = apache_spark2
-	url = https://github.com/prasanthkothuri/hadoop-tutorials-2016.git
-	branch = master
-[submodule "outreach"]
-	path = outreach
-	url = https://github.com/cmsopendata-finland/kurssimateriaali.git
+	url = https://github.com/diocas/hadoop-tutorials-2016.git
 	branch = master
