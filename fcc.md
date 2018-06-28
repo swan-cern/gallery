@@ -1,0 +1,19 @@
+# Future Circular Collider (FCC)
+
+This is a gallery of example notebooks about FCC analyses.
+
+## Setup the FCC Environment
+
+The following notebooks require a special environment configuration when running in SWAN. Use the parameters specified in the image below to setup your environment.
+
+The path of the environment script you need is: _/cvmfs/fcc.cern.ch/sw/views/releases/0.9.1/x86\_64-slc6-gcc62-opt/setup.sh_.
+
+## Official Analyses
+
+* [FCC-hh analysis flow](fcc/notebooks/FCC-hh-AnalysisFlow.ipynb)
+
+## Tutorials
+
+* [FCC-ee-higgs analysis](fcc/notebooks/FCC-ee-higgs.ipynb)
+* [Production and analysis of fast-simulated events](fcc/notebooks/FccSoftwareGettingStartedFastSim.ipynb)
+* [Full analysis example using Pythia, Delphes and Heppy](fcc/notebooks/FCCFullAnalysis.ipynb)
