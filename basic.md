@@ -2,6 +2,8 @@
 
 This is a gallery of basic example notebooks: click on the images to inspect the underlying document, open in SWAN the single notebooks or the full git repository!
 
+[<img class="open_in_swan" data-path="basic" alt="Open this Gallery in SWAN" src="https://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png">][gallery_url]
+
 Many of the notebooks are ROOTbooks, based on the ROOT framework. To know more about ROOT, visit [root.cern.ch](http://root.cern.ch/).
 
 * [Simple ROOTbook (Python)](basic/notebooks/Simple_ROOTbook_py.ipynb)
@@ -15,3 +17,6 @@ Many of the notebooks are ROOTbooks, based on the ROOT framework. To know more a
 * [Pandas](basic/notebooks/pandas.ipynb)
 * [Spark](basic/notebooks/Spark_Simple.ipynb)
 * [IPywidgets](basic/notebooks/WidgetBasics.ipynb)
+
+
+[gallery_url]:https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/dpiparo/swanExamples.git
