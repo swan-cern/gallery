@@ -28,5 +28,5 @@ Copyright [CERN][cern]
 [swan]: http://swan.web.cern.ch
 [cernbox]: http://cernbox.web.cern.ch
 [cern]: http://cern.ch
-[openswan-image]:http://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png
+[openswan-image]:https://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png
 [openswan-link]:https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/dpiparo/swanExamples.git
