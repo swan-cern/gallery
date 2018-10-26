@@ -1,6 +1,6 @@
 # Apache Spark
 
-## SWAN: Spark connector and monitor
+## SWAN and Spark Service at CERN
 
 These notebooks exemplify the submission and monitoring of Spark jobs from SWAN.
 
@@ -8,6 +8,7 @@ These notebooks exemplify the submission and monitoring of Spark jobs from SWAN.
 
 * [Analyzing monitoring data](apache_spark1/analytix-hostmetrics-example.ipynb)
 * [Analyzing LHC logging data](apache_spark1/NXCals-example.ipynb)
+* [Machine Learning with Apache Spark](apache_spark1/ML_Spark_MLlib.ipynb)
 
 ## LHCb Opendata
 
