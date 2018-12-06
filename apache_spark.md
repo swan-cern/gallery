@@ -2,13 +2,14 @@
 
 ## SWAN and Spark Service at CERN
 
-These notebooks exemplify the submission and monitoring of Spark jobs from SWAN.
+These notebooks exemplify the usage of SWAN and Spark for analytics and machine learning use cases at CERN.
 
 [<img class="open_in_swan" data-path="apache_spark1" data-name="SWAN: Spark connector and monitor" alt="Open this Gallery in SWAN" src="https://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png">][gallery_url1]
 
 * [Analyzing monitoring data](apache_spark1/analytix-hostmetrics-example.ipynb)
 * [Analyzing LHC logging data](apache_spark1/NXCals-example.ipynb)
 * [Machine Learning with Apache Spark](apache_spark1/ML_Spark_MLlib.ipynb)
+* [Handwritten Digit Classification using Apache Spark and BigDL](apache_spark1/ML-Spark-BigDL.ipynb)
 
 ## LHCb Opendata
 
@@ -20,7 +21,7 @@ This notebok illustrates a nice interplay between LHCb Opendata, Spark and ROOT 
 
 ## Spark Course
 
-This gallery shows examples of usage of [Apache Spark][spark] within SWAN. The full tutorial given at CERN by Prasanth Kouthuri and Kasper Surdy can be found on [Indico][event].
+This gallery shows examples of usage of [Apache Spark][spark] within SWAN. The full tutorial given at CERN by Prasanth Kothuri and Kasper Surdy can be found on [Indico][event].
 
 [<img class="open_in_swan" data-path="apache_spark2" data-name="Spark course/Hadoop tutorials" alt="Open this Gallery in SWAN" src="https://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png">][gallery_url3]
 
