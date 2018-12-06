@@ -16,6 +16,7 @@ This is a gallery of basic example notebooks about beam dynamics. The library us
 * [Transverse Gaussian Space Charge](beams_dynamics/TransverseGaussianSpaceCharge.ipynb)
 * [PS Triple Bunch Splitting](beams_dynamics/PS-TripleBunchSplitting.ipynb)
 * [RF Bucket Matching](beams_dynamics/RFBucket_Matching.ipynb)
+* [Transverse Feedback](beam_dynamics/TransverseDamper.ipynb)
 * [Transverse Tracking](beams_dynamics/TransverseTrackingTest.ipynb)
 * [Detuners](beams_dynamics/DetunersTest.ipynb)
 * [Transverse Mode Coupling Instability](beams_dynamics/TMCI_2particle_model.ipynb)
