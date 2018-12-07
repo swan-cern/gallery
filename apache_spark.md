@@ -9,7 +9,7 @@ These notebooks exemplify the usage of SWAN and Spark for analytics and machine 
 * [Analyzing monitoring data](apache_spark1/analytix-hostmetrics-example.ipynb)
 * [Analyzing LHC logging data](apache_spark1/NXCals-example.ipynb)
 * [Machine Learning with Apache Spark](apache_spark1/ML_Spark_MLlib.ipynb)
-* [Handwritten Digit Classification using Apache Spark and BigDL](apache_spark1/ML-Spark-BigDL.ipynb)
+* [Handwritten Digit Classification using Apache Spark and BigDL](apache_spark1/ML-ApacheSpark-BigDL.ipynb)
 
 ## LHCb Opendata
 
