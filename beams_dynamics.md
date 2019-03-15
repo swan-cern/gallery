@@ -13,7 +13,7 @@ This is a gallery of basic example notebooks about beam dynamics. The library us
 [<img class="open_in_swan" data-path="beams_dynamics" alt="Open this Gallery in SWAN" src="https://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png">][gallery_url]
 
 * [Quick Start Tutorial](beams_dynamics/Tutorial.ipynb)
-* [Transverse Space Charge Tutorial](beams_dynamics/howto_notebooks/SpaceChargeTutorial.ipynb)
+* [Transverse Space Charge Tutorial](beams_dynamics/simulation_notebooks/SpaceChargeTutorial.ipynb)
 * [PS Triple Bunch Splitting](beams_dynamics/simulation_notebooks/PS-TripleBunchSplitting.ipynb)
 * [RF Bucket Matching](beams_dynamics/howto_notebooks/RFBucket_Matching.ipynb)
 * [Transverse Feedback](beams_dynamics/simulation_notebooks/TransverseDamper.ipynb)
