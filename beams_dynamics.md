@@ -19,7 +19,7 @@ This is a gallery of basic example notebooks about beam dynamics. The library us
 * [Transverse Feedback](beams_dynamics/simulation_notebooks/TransverseDamper.ipynb)
 * [Transverse Tracking](beams_dynamics/howto_notebooks/TransverseTrackingTest.ipynb)
 * [Detuners](beams_dynamics/howto_notebooks/DetunersTest.ipynb)
-* [Transverse Mode Coupling Instability](beams_dynamics/simulation_notebooks/TMCI_2particle_model.ipynb)
+* [Transverse Mode Coupling Instability](beams_dynamics/simulation_notebooks/Transverse_Mode_Coupling_Instability/Transverse_Mode_Coupling_Instability.ipynb?clone_folder=True)
 
 
 [pyheadtail]:https://github.com/PyCOMPLETE/PyHEADTAIL/wiki
