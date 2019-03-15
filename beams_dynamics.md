@@ -12,14 +12,14 @@ This is a gallery of basic example notebooks about beam dynamics. The library us
 
 [<img class="open_in_swan" data-path="beams_dynamics" alt="Open this Gallery in SWAN" src="https://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png">][gallery_url]
 
-* [Quick Start Tutorial](beams_dynamics/index.ipynb)
-* [Transverse Gaussian Space Charge](beams_dynamics/TransverseGaussianSpaceCharge.ipynb)
-* [PS Triple Bunch Splitting](beams_dynamics/PS-TripleBunchSplitting.ipynb)
-* [RF Bucket Matching](beams_dynamics/RFBucket_Matching.ipynb)
-* [Transverse Feedback](beams_dynamics/TransverseDamper.ipynb)
-* [Transverse Tracking](beams_dynamics/TransverseTrackingTest.ipynb)
-* [Detuners](beams_dynamics/DetunersTest.ipynb)
-* [Transverse Mode Coupling Instability](beams_dynamics/TMCI_2particle_model.ipynb)
+* [Quick Start Tutorial](beams_dynamics/Tutorial.ipynb)
+* [Transverse Space Charge Tutorial](beams_dynamics/howto_notebooks/SpaceChargeTutorial.ipynb)
+* [PS Triple Bunch Splitting](beams_dynamics/simulation_notebooks/PS-TripleBunchSplitting.ipynb)
+* [RF Bucket Matching](beams_dynamics/howto_notebooks/RFBucket_Matching.ipynb)
+* [Transverse Feedback](beams_dynamics/simulation_notebooks/TransverseDamper.ipynb)
+* [Transverse Tracking](beams_dynamics/howto_notebooks/TransverseTrackingTest.ipynb)
+* [Detuners](beams_dynamics/howto_notebooks/DetunersTest.ipynb)
+* [Transverse Mode Coupling Instability](beams_dynamics/simulation_notebooks/TMCI_2particle_model.ipynb)
 
 
 [pyheadtail]:https://github.com/PyCOMPLETE/PyHEADTAIL/wiki
