@@ -23,12 +23,17 @@ The repository of the API is available at a GitLab [http://gitlab.cern.ch/lhcdat
 The beta versions of the use cases are versioned at a gitlab repository [http://gitlab.cern.ch/lhcdata/lhc-sm-apps](http://gitlab.cern.ch/lhcdata/lhc-sm-apps)
 
 ## Use cases
-- Quench heater discharge analysis
+### Quench heater discharge analysis
+
   * [QPS Many Events](lhc/quench_heaters/QPS_ManyEvents.ipynb)
-- Power converter current analysis
+
+### Power converter current analysis
+
   * [FGC Single Event](lhc/power_converters/FGC_SingleEvent.ipynb)
   * [FGC Many Events](lhc/power_converters/FGC_ManyEvents.ipynb)
-- Earth current network analysis
+
+### Earth current network analysis
+
   * [Earth Current Many Events](lhc/earth_current/EarthCurrent_ManyEvents.ipynb)
 
 [gallery_url]:https://cern.ch/swanserver/cgi-bin/go/?projurl=http://gitlab.cern.ch/lhcdata/lhc-sm-apps.git
