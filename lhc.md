@@ -36,8 +36,8 @@ The beta versions of the use cases are versioned at a gitlab repository [http://
 
 ## Power converter current analysis
 
-  * [FGC Single Event](lhc/power_converters/FGC_SingleEvent.ipynb)
-  * [FGC Many Events](lhc/power_converters/FGC_ManyEvents.ipynb)
+  * [FGC Single Event](lhc/power_converter/FGC_SingleEvent.ipynb)
+  * [FGC Many Events](lhc/power_converter/FGC_ManyEvents.ipynb)
 
 ## Earth current network analysis
 
