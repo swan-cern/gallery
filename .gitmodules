@@ -14,6 +14,10 @@
 	path = fcc
 	url = https://github.com/HEP-FCC/fcc-tutorials.git
 	branch = master
+[submodule "lhc"]
+	path = lhc
+	url = https://gitlab.cern.ch/LHCData/lhc-sm-apps.git
+	branch = master
 [submodule "beams_dynamics"]
 	path = beams_dynamics
 	url = https://github.com/PyCOMPLETE/PyHEADTAIL-playground.git

@@ -20,6 +20,7 @@ Copyright [CERN][cern]
 * [ROOT Primer](root_primer.md)
 * [Accelerator Complex](accelerator_complex.md)
 * [FCC](fcc.md)
+* [LHC Monitoring](lhc.md)
 * [Beam Dynamics](beams_dynamics.md)
 * [Machine Learning](machine_learning.md)
 * [Apache Spark](apache_spark.md)
