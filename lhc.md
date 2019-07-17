@@ -6,8 +6,6 @@ This is a gallery of example notebooks about LHC Signal Monitoring project.
 
 ## How to use the project
 
-&nbsp;
-
 #### API and Metadata
 
 In order to use the project, API has to be installed with a python package installer as
@@ -22,8 +20,6 @@ The API relies on external python packages which have to be installed in a simil
 The documentation for the API is stored at [http://cern.ch/lhc-sm-api](http://cern.ch/lhc-sm-api).
 
 The repository of the API is available at a GitLab [http://gitlab.cern.ch/lhcdata/lhc-sm-api](http://gitlab.cern.ch/lhcdata/lhc-sm-api).
-
-&nbsp;
 
 #### Applications
 
