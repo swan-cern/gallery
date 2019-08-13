@@ -8,7 +8,7 @@ This is a gallery of example notebooks about FCC analyses.
 
 The following notebooks require a special environment configuration when running in SWAN. Use the parameters specified in the image below to setup your environment.
 
-The path of the environment script you need is: _/cvmfs/fcc.cern.ch/sw/views/releases/0.9.1/x86\_64-slc6-gcc62-opt/setup.sh_.
+The path of the environment script you need is: `/cvmfs/fcc.cern.ch/sw/latest/setup.sh`.
 
 ## Official Analyses
 
