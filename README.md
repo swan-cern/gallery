@@ -1,6 +1,6 @@
 # The SWAN Examples
 
-A set of examples for [CERN][cern] [SWAN][swan] a **Service for Web based ANlysis**. 
+A set of examples for [CERN][cern] [SWAN][swan] a **Service for Web based ANalysis**.
 With [SWAN][swan] you can:
 
 * Analyse data without the need to install any software
@@ -20,7 +20,7 @@ Copyright [CERN][cern]
 * [ROOT Primer](root_primer.md)
 * [Accelerator Complex](accelerator_complex.md)
 * [FCC](fcc.md)
-* [LHC Monitoring](lhc.md)
+* [LHC Signal Monitoring](lhc-sm.md)
 * [Beam Dynamics](beams_dynamics.md)
 * [Machine Learning](machine_learning.md)
 * [Apache Spark](apache_spark.md)
