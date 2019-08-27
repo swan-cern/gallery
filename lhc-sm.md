@@ -21,14 +21,35 @@ The repository of the API is available at a GitLab [http://gitlab.cern.ch/lhcdat
 
 #### Applications
 The beta versions of the use cases are versioned at a gitlab repository [http://gitlab.cern.ch/lhcdata/lhc-sm-apps](http://gitlab.cern.ch/lhcdata/lhc-sm-apps)
+The applications are typically divided into two stages: (i) a detailed analysis of a single event (day, ramp-up, FPA) in order to get the features right; (ii) this analysis is followed by an analysis of many events to get the right features (at scale).
 
 ## Use cases
-- Quench heater discharge analysis
-  * [QPS Many Events](lhc/quench_heaters/QPS_ManyEvents.ipynb)
-- Power converter current analysis
-  * [FGC Single Event](lhc/power_converters/FGC_SingleEvent.ipynb)
-  * [FGC Many Events](lhc/power_converters/FGC_ManyEvents.ipynb)
-- Earth current network analysis
-  * [Earth Current Many Events](lhc/earth_current/EarthCurrent_ManyEvents.ipynb)
+<i>Beam mode filtering</i>
+
+This module extracts beam mode indices corresponding to current ramp-up from the injection through the stable beams.
+* [BmManyDays](lhc-sm/beam_mode/BmManyDays.ipynb) - for extraction of beam mode parameters over a certain period of time.
+
+<i>Quench heater</i>
+
+This analysis module is suited for querying quench heater signals during discharge, i.e., voltage and current (for main dipole magnets).
+* [QhSingleDay](lhc-sm/quench_heater/QhSingleDay.ipynb) - for analysis of a quench heater discharge selected during a single day
+
+<i>Power converter</i>
+* [FgcSingleDay](lhc-sm/power_converter/FgcSingleDay.ipynb) - for analysis of a single Post Mortem dump of a power converter selected during a single day
+* [FgcManyDays](lhc-sm/power_converter/FgcManyDays.ipynb) - for analysis of many Post Mortem dumps of a power converter in a given period of time
+
+<i>Earth current</i>
+* [EcManyFpas](lhc-sm/earth_current/EcManyFpas.ipynb) - for analysis of the grounding network during an FPA in a given period of time
+
+<i>Voltage feeler</i>
+* [VfSingleRamp](lhc-sm/voltage_feeler/VfSingleRamp.ipynb) - for analysis of the voltage feeler behavior during a single current ramp-up
+* [VfManyRamps](lhc-sm/voltage_feeler/VfManyRamps.ipynb) - for analysis of the voltage feeler behavior during many current ramp-ups
+
+<i>Busbar</i>
+
+This module calculates busbar and magnet resistances corresponding to a current ramp-up.
+* [BbSingleRamp](lhc-sm/busbar/BbSingleRamp.ipynb) - for analysis of busbar/magnet resistance during a single current ramp-up
+* [BbManyRamps](lhc-sm/busbar/BbManyRamps.ipynb) - for analysis of busbar/magnet resistance during many current ramp-ups
+
 
 [gallery_url]:https://cern.ch/swanserver/cgi-bin/go/?projurl=http://gitlab.cern.ch/lhcdata/lhc-sm-apps.git
