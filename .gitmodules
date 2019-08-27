@@ -14,8 +14,8 @@
 	path = fcc
 	url = https://github.com/HEP-FCC/fcc-tutorials.git
 	branch = master
-[submodule "lhc"]
-	path = lhc
+[submodule "lhc-sm"]
+	path = lhc-sm
 	url = https://gitlab.cern.ch/LHCData/lhc-sm-apps.git
 	branch = master
 [submodule "beams_dynamics"]
