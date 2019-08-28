@@ -34,3 +34,6 @@
 	path = apache_spark2
 	url = https://github.com/prasanthkothuri/hadoop-tutorials-2016.git
 	branch = master
+[submodule "awake"]
+	path = awake
+	url = https://github.com/prasanthkothuri/AWAKE-notebooks

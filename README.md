@@ -25,6 +25,7 @@ Copyright [CERN][cern]
 * [Machine Learning](machine_learning.md)
 * [Apache Spark](apache_spark.md)
 * [Outreach](outreach.md)
+* [Awake](awake.md)
 
 [swan]: http://swan.web.cern.ch
 [cernbox]: http://cernbox.web.cern.ch
