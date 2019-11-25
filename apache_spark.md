@@ -9,12 +9,13 @@ These notebooks exemplify the usage of SWAN and Spark for analytics and machine 
 * [Analyzing monitoring data](apache_spark1/analytix-hostmetrics-example.ipynb)
 * [Analyzing LHC logging data](apache_spark1/NXCals-example.ipynb)
 * [Processing ROOT (NanoAOD) files with Distributed ROOT RDataFrame in Python and Spark (PySpark)](apache_spark1/NanoAODDimuonAnalysis-PyRDF-Spark.ipynb)
+* [Physics analysis with Apache Spark using Coffea and Laurelin packages](apache_spark1/spark-laurelin.ipynb)
 * [Machine Learning with Apache Spark](apache_spark1/ML_Spark_MLlib.ipynb)
 * [Handwritten Digit Classification using Apache Spark and BigDL](apache_spark1/ML-ApacheSpark-BigDL.ipynb)
 
 ## LHCb Opendata
 
-This notebok illustrates a nice interplay between LHCb Opendata, Spark and ROOT - all teaching interesting flavour Physics!
+This notebook illustrates a nice interplay between LHCb Opendata, Spark and ROOT - all teaching interesting flavour Physics!
 
 [<img class="open_in_swan" data-path="basic" data-name="Basic Examples (including LHCb Opendata)" alt="Open this Gallery in SWAN" src="https://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png">][gallery_url2]
 
