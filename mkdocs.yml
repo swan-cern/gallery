@@ -1,0 +1,31 @@
+
+# Project information
+site_name: 'Gallery'
+site_description: 'Examples gallery for SWAN'
+site_url: 'https://swan-gallery.web.cern.ch/'
+site_dir: 'public'
+
+# Repository
+repo_url: 'https://github.com/swan-cern/gallery'
+
+# Theme configuration
+theme:
+  name: 'swan'
+
+plugins:
+  - swangallery:
+      gallery_url: https://swan-gallery.web.cern.ch
+      open_in_swan_url: https://cern.ch/swanserver/cgi-bin/go?projurl=
+
+# Navigation menu
+nav:
+  - basic.md
+  - root_primer.md
+  - accelerator_complex.md
+  - fcc.md
+  - lhc-sm.md
+  - beams_dynamics.md
+  - machine_learning.md
+  - apache_spark.md
+  - outreach.md
+  - awake.md

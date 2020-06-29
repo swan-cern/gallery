@@ -1,3 +1,7 @@
+---
+template: full_width_with_menu.html
+---
+
 # Outreach
 
 Reach out with SWAN! This section collect a series of outreach efforts involving SWAN.

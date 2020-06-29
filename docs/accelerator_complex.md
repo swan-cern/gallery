@@ -1,3 +1,7 @@
+---
+template: full_width_with_menu.html
+---
+
 # Accelerator Complex
 
 This gallery shows examples of machine studies relative to the CERN accelerators' complex.

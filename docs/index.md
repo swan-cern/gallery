@@ -1,3 +1,7 @@
+---
+template: full_width_with_menu.html
+---
+
 # The SWAN Examples
 
 A set of examples for [CERN][cern] [SWAN][swan] a **Service for Web based ANalysis**.
@@ -10,25 +14,7 @@ With [SWAN][swan] you can:
 * Share your work with your colleagues thanks to [CERNBOX][cernbox]
 * Document and preserve science - create catalogues of analyses: encourage reproducible studies and learning by example
 
-[![Open in SWAN][openswan-image]][openswan-link]
-
-Copyright [CERN][cern]
-
-## Galleries
-
-* [Basic Examples](basic.md)
-* [ROOT Primer](root_primer.md)
-* [Accelerator Complex](accelerator_complex.md)
-* [FCC](fcc.md)
-* [LHC Signal Monitoring](lhc-sm.md)
-* [Beam Dynamics](beams_dynamics.md)
-* [Machine Learning](machine_learning.md)
-* [Apache Spark](apache_spark.md)
-* [Outreach](outreach.md)
-* [Awake](awake.md)
 
 [swan]: http://swan.web.cern.ch
 [cernbox]: http://cernbox.web.cern.ch
 [cern]: http://cern.ch
-[openswan-image]:https://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png
-[openswan-link]:https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/swan-cern/gallery.git

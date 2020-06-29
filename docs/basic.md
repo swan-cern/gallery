@@ -1,3 +1,7 @@
+---
+template: full_width_with_menu.html
+---
+
 # Basic Examples
 
 This is a gallery of basic example notebooks: click on the images to inspect the underlying document, open in SWAN the single notebooks or the full git repository!

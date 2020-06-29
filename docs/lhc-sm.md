@@ -1,6 +1,10 @@
+---
+template: full_width_with_menu.html
+---
+
 # LHC Signal Monitoring
 
-This is a gallery of example notebooks about LHC Signal Monitoring project.
+<!-- This is a gallery of example notebooks about LHC Signal Monitoring project.
 
 [<img class="open_in_swan" data-path="lhc" alt="Open this Gallery in SWAN" src="https://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png">][gallery_url]
 
@@ -28,35 +32,32 @@ The applications are typically divided into two stages: (i) a detailed analysis 
 #### Beam mode filtering
 This module extracts beam mode indices corresponding to current ramp-up from the injection through the stable beams, over a certain period of time.
 
-* [BmManyDays](lhc-sm/beam_mode/BmManyDays.ipynb)
+* [BmManyDays](lhc-sm/beam_mode/BmManyDays.xxxx)
 
 #### Quench heater
 This analysis module is suited for querying quench heater signals during discharge, i.e., voltage and current (for main dipole magnets), selected during a single day.
 
-* [QhSingleDay](lhc-sm/quench_heater/QhSingleDay.ipynb)
+* [QhSingleDay](lhc-sm/quench_heater/QhSingleDay.xxxx)
 
 #### Power converter
 Analysis of a single Post Mortem dump of a power converter selected during a single day, or many in a given period of time.
 
-* [FgcSingleDay](lhc-sm/power_converter/FgcSingleDay.ipynb)
-* [FgcManyDays](lhc-sm/power_converter/FgcManyDays.ipynb)
+* [FgcSingleDay](lhc-sm/power_converter/FgcSingleDay.xxxx)
+* [FgcManyDays](lhc-sm/power_converter/FgcManyDays.xxxx)
 
 #### Earth current
 Analysis of the grounding network during an FPA in a given period of time.
 
-* [EcManyFpas](lhc-sm/earth_current/EcManyFpas.ipynb)
+* [EcManyFpas](lhc-sm/earth_current/EcManyFpas.xxxx)
 
 #### Voltage feeler
 Analysis of the voltage feeler behavior during a single, or many, current ramp-up.
 
-* [VfSingleRamp](lhc-sm/voltage_feeler/VfSingleRamp.ipynb)
-* [VfManyRamps](lhc-sm/voltage_feeler/VfManyRamps.ipynb)
+* [VfSingleRamp](lhc-sm/voltage_feeler/VfSingleRamp.xxxx)
+* [VfManyRamps](lhc-sm/voltage_feeler/VfManyRamps.xxxx)
 
 #### Busbar
 This module calculates busbar and magnet resistances corresponding to a current ramp-up.
 
-* [BbSingleRamp](lhc-sm/busbar/BbSingleRamp.ipynb)
-* [BbManyRamps](lhc-sm/busbar/BbManyRamps.ipynb)
-
-
-[gallery_url]:https://cern.ch/swanserver/cgi-bin/go/?projurl=http://gitlab.cern.ch/lhcdata/lhc-sm-apps.git
+* [BbSingleRamp](lhc-sm/busbar/BbSingleRamp.xxxx)
+* [BbManyRamps](lhc-sm/busbar/BbManyRamps.xxxx) -->
