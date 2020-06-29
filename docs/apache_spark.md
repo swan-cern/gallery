@@ -1,3 +1,7 @@
+---
+template: full_width_with_menu.html
+---
+
 # Apache Spark
 
 ## SWAN and Spark Service at CERN

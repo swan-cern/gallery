@@ -1,3 +1,7 @@
+---
+template: full_width_with_menu.html
+---
+
 # ROOT Primer
 
 * [Macro 1: Building a graph with errors](root_primer/OldSummerStudentsCourse/2017/examples/notebooks/Macro1_cpp.ipynb)

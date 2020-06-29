@@ -1,3 +1,7 @@
+---
+template: full_width_with_menu.html
+---
+
 # Machine Learning
 
 * [TMVA Basics](machine_learning/TMVA_DataLoader.ipynb)

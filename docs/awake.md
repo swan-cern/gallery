@@ -1,3 +1,7 @@
+---
+template: full_width_with_menu.html
+---
+
 # AWAKE
 
 ## AWAKE Analysis Tools
