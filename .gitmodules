@@ -10,10 +10,6 @@
 	path = accelerator_complex
 	url = https://github.com/rdemaria/pytimber.git
 	branch = master
-[submodule "fcc"]
-	path = fcc
-	url = https://github.com/HEP-FCC/fcc-tutorials.git
-	branch = master
 [submodule "lhc-sm"]
 	path = lhc-sm
 	url = https://gitlab.cern.ch/LHCData/lhc-sm-apps.git
