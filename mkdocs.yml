@@ -22,7 +22,7 @@ nav:
   - basic.md
   - root_primer.md
   - accelerator_complex.md
-  - lhc-sm.md
+  # - lhc-sm.md
   - beams_dynamics.md
   - machine_learning.md
   - apache_spark.md
