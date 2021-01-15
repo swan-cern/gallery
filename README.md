@@ -58,10 +58,12 @@ nav:
   - your_submodule_name.md
 ```
 
-4. Optionally, an "Open in SWAN" banner can be added to the README file, so that the whole gallery can be open
-in SWAN at once, not just individual notebooks. To do so, the following line must be added to `your_submodule_name.md`:
+4. Optionally, an "Open in SWAN" banner can be added to the README file, so that the whole gallery is opened
+in SWAN at once, not just individual notebooks. To do so, a line like the following one must be added to `your_submodule_name.md`:
 
 ```markdown
 [<img class="open_in_swan" data-path="your_submodule_name" alt="Open this Gallery in SWAN" src="https://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png">][gallery_url]
 ```
 
+where `gallery_url` should be of the form `https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/myaccount/myrepo.git`.
+See an example [here](https://gitlab.cern.ch/swan/gallery/-/raw/master/docs/basic.md).
