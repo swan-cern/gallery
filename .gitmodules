@@ -8,7 +8,7 @@
 	branch = master
 [submodule "accelerator_complex"]
 	path = accelerator_complex
-	url = https://github.com/rdemaria/pytimber.git
+	url = https://gitlab.cern.ch/scripting-tools/pytimber
 	branch = master
 [submodule "lhc-sm"]
 	path = lhc-sm
