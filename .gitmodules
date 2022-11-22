@@ -22,14 +22,10 @@
 	path = machine_learning
 	url = https://github.com/iml-wg/tmvatutorials.git
 	branch = master
-[submodule "apache_spark1"]
-	path = apache_spark1
-	url = https://github.com/prasanthkothuri/swan-spark-notebooks.git
-	branch = master
-[submodule "apache_spark2"]
-	path = apache_spark2
-	url = https://github.com/prasanthkothuri/hadoop-tutorials-2016.git
-	branch = master
 [submodule "awake"]
 	path = awake
 	url = https://github.com/prasanthkothuri/AWAKE-notebooks
+[submodule "SparkTraining"]
+	path = SparkTraining
+	url = https://github.com/cerndb/SparkTraining
+	branch = master

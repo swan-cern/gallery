@@ -19,7 +19,6 @@ Many of the notebooks are ROOTbooks, based on the ROOT framework. To know more a
 * [CMS Opendata: di-muon analysis](basic/notebooks/CMSDimuon_py.ipynb)
 * [Fastjet (Interactive usage of 3rd party libraries)](basic/notebooks/FastjetInteractive.ipynb)
 * [Pandas](basic/notebooks/pandas.ipynb)
-* [Spark](basic/notebooks/Spark_Simple.ipynb)
 * [IPywidgets](basic/notebooks/WidgetBasics.ipynb)
 
 
