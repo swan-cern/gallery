@@ -8,7 +8,7 @@
 	branch = master
 [submodule "accelerator_complex"]
 	path = accelerator_complex
-	url = https://gitlab.cern.ch/scripting-tools/pytimber
+	url = https://gitlab.cern.ch/scripting-tools/pytimber.git
 	branch = master
 [submodule "lhc-sm"]
 	path = lhc-sm
@@ -24,8 +24,8 @@
 	branch = master
 [submodule "awake"]
 	path = awake
-	url = https://github.com/prasanthkothuri/AWAKE-notebooks
+	url = https://github.com/prasanthkothuri/AWAKE-notebooks.git
 [submodule "SparkTraining"]
 	path = SparkTraining
-	url = https://github.com/cerndb/SparkTraining
+	url = https://github.com/cerndb/SparkTraining.git
 	branch = master
