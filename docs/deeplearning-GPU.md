@@ -2,20 +2,20 @@
 template: full_width_with_menu.html
 ---
 
-# Deep Learning and GPU
+# Deep Learning
 
-This gallery contains examples of how to use the most common open-source Deep Learning frameworks with SWAN.  
+This gallery contains examples of how to use the most common open-source Deep Learning frameworks with SWAN.    
 The notebooks are intended to be run using GPU resources.  
 To use GPU resources in SWAN, you need to:
  - open a ticket with the SWAN team to get access to GPU resources
  - use SWAN from https://swan-k8s.cern.ch
  - select a software stack with GPU
-   - it's recommended to select the 'bleeding edge' software stack
+   - to get the latest version of the tools used here select the 'bleeding edge' software stack
 
 [<img class="open_in_swan" data-path="apache_spark1" data-name="SWAN: Spark connector and monitor" alt="Open this Gallery in SWAN" src="https://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png">][gallery_url]
 
 ## Getting started with Deep Learning
-These notebooks implement a classifier for -digit recognition using the MNIST dataset, it is a sort of "Hello World!" for Deep Learning.
+These notebooks implement a classifier for digit recognition using the MNIST dataset, it is a sort of "Hello World!" for Deep Learning.
 
 * [MNIST with TensorFlow Keras](GPU_and_data/DeepLearning-GPU/TensorFlow_Keras_MNIST.ipynb)
 * [MNIST with PyTorch](GPU_and_data/DeepLearning-GPU/PyTorch_MNIST.ipynb)
