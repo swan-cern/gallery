@@ -22,8 +22,9 @@ These notebooks implement a classifier for digit recognition using the MNIST dat
 * [MNIST with Pytorch Lightning](GPU_and_data/DeepLearning-GPU/PyTorch_Lightning_MNIST.ipynb)
 
 ## Transformers library
-This is to illustrate the use of the Transformers library from Hugging Face for Natural Language Processing (NLP), image, and speech tasks.
+This is to illustrate the use of the Transformers library from Hugging Face for LLM, Natural Language Processing (NLP), image, and speech tasks.
 
+* [Transformers for LLM with Dolly](GPU_and_data/DeepLearning-GPU/Transformers_LLM_Dolly.ipynb)
 * [Transformers for text classification](GPU_and_data/DeepLearning-GPU/Transformers_text_example.ipynb)
 * [Transformers for image classifier](GPU_and_data/DeepLearning-GPU/Transformers_image_example.ipynb)
 * [Stable diffusion with transformers](GPU_and_data/DeepLearning-GPU/Transformers_stable_diffusion_example.ipynb)
