@@ -2,7 +2,7 @@
 template: full_width_with_menu.html
 ---
 
-# Machine Learning
+# Machine Learning with TMVA
 
 * [TMVA Basics](machine_learning/TMVA_DataLoader.ipynb)
 * [RMVA](machine_learning/TMVA_RMVA.ipynb)
