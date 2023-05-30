@@ -31,4 +31,4 @@
 	branch = master
 [submodule "GPU_and_data"]
 	path = GPU_and_data
-	url = https://github.com/cerndb/NotebooksExamples
+	url = https://github.com/cerndb/NotebooksExamples.git
