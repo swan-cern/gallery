@@ -7,10 +7,10 @@ template: full_width_with_menu.html
 This gallery contains examples of how to use the most common open-source Deep Learning frameworks with SWAN.    
 The notebooks are intended to be run using GPU resources.  
 To use GPU resources in SWAN, you need to:
- - open a ticket with the SWAN team to get access to GPU resources
- - use SWAN from https://swan-k8s.cern.ch
- - select a software stack with GPU
-   - to get the latest version of the tools used here select the 'bleeding edge' software stack
+- open a ticket with the SWAN team to get access to GPU resources
+- use SWAN from [https://swan-k8s.cern.ch](https://swan-k8s.cern.ch)
+- select a software stack with GPU
+  - to get the latest version of the tools used here select the 'bleeding edge' software stack
 
 [<img class="open_in_swan" data-path="apache_spark1" data-name="SWAN: Spark connector and monitor" alt="Open this Gallery in SWAN" src="https://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png">][gallery_url]
 
