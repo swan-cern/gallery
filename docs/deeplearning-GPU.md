@@ -51,3 +51,9 @@ the Petastorm library to read data from Parquet files with TensorFlow and PyTorc
 
 [gallery_url]:https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/cerndb/NotebooksExamples.git
 [classifier_image]:https://github.com/cerndb/SparkDLTrigger/raw/master/Docs/Physics_use_case.png
+
+## Additional complexity with models and data
+This example implements the same particle classifier as in the previous examples, but with a more complex model
+and bigger data set.
+
+* [TensorFlow for the Inclusive Classifier, with GRU and TFRecord](GPU_and_data/DeepLearning-GPU/TensorFlow_Inclusive_Classifier_TFRecord.ipynb)
