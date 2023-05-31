@@ -35,9 +35,11 @@ This is to illustrate the use of the Transformers library from Hugging Face for 
 These notebooks provide examples of how to integrate Deep Learning frameworks with some basic data pipelines using Pandas to feed data into the DL training step.  
 They implement a simple Particle classifier using different DL frameworks. The data is stored in Parquet format, which is a columnar format that is very efficient for reading,
 it is processed using Pandas, and then fed into the DL training step.
-<br>
+  
+  
 ![][classifier_image]
-<br>
+  
+  
 * [TensorFlow classifier with Pandas](GPU_and_data/DeepLearning-GPU/TensorFlow_Keras_HLF_with_Pandas_Parquet.ipynb)
 * [Pytorch classifier with Pandas](GPU_and_data/DeepLearning-GPU/PyTorch_HLF_with_Pandas_Parquet.ipynb)
 * [Pytorch Lightning classifier with Pandas](GPU_and_data/DeepLearning-GPU/PyTorch_Lightning_HLF_with_Pandas_Parquet.ipynb)
