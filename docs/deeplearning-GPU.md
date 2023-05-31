@@ -13,7 +13,7 @@ To use GPU resources in SWAN, you need to:
 * Select a software stack with GPU
   * Note, to get the latest version of the tools used here select the 'bleeding edge' software stack
 
-[<img class="open_in_swan" data-path="apache_spark1" data-name="SWAN: Spark connector and monitor" alt="Open this Gallery in SWAN" src="https://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png">][gallery_url]
+[<img class="open_in_swan" data-path="DeepLearning-GPU" data-name="SWAN" alt="Open this Gallery in SWAN" src="https://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png">][gallery_url]
 
 ## Getting started with Deep Learning
 These notebooks implement a classifier for digit recognition using the MNIST dataset, it is a sort of "Hello World!" for Deep Learning.
@@ -57,5 +57,5 @@ and bigger data set.
 
 * [TensorFlow for the Inclusive Classifier, with GRU and TFRecord](GPU_and_data/DeepLearning-GPU/TensorFlow_Inclusive_Classifier_TFRecord.ipynb)
 
-[gallery_url]:https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/cerndb/NotebooksExamples.git
+[gallery_url]:https://swan-k8s.cern.ch/user-redirect/download?projurl=https://github.com/cerndb/NotebooksExamples.git
 [classifier_image]:https://github.com/cerndb/SparkDLTrigger/raw/master/Docs/Physics_use_case.png
