@@ -26,7 +26,7 @@ nav:
   - beams_dynamics.md
   - machine_learning.md
   - awake.md
-  # - outreach.md
+  - outreach.md
   - apache_spark.md
   - datatools.md
   - deeplearning-GPU.md
