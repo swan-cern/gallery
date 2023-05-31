@@ -2,7 +2,7 @@
 template: full_width_with_menu.html
 ---
 
-# Data tools
+# Data Tools
 
 This gallery contains getting-started examples of how to use some of the most common Data processing tools and frameworks from SWAN.    
 
@@ -14,9 +14,9 @@ For more advanced examples, using Spark, see the [SparkTraining](https://sparktr
 Contact Oracle and DBOD sevices at CERN to get access to databases for testing, if needed.
 
 
-* [Pandas examples with plots](GPU_and_data/DDataTools/Pandas_examples_with_plots.ipynb)
-* [Numpy examples with plots](GPU_and_data/DDataTools/Numpy_examples_with_plots.ipynb)
-* [How to access Oracle database](GPU_and_data/DDataTools/Query_Oracle.ipynb)
-* [How to access PostgreSQL database](GPU_and_data/DDataTools/Query_PostgreSQL.ipynb)
+* [Pandas examples with plots](GPU_and_data/DataTools/Pandas_examples_with_plots.ipynb)
+* [Numpy examples with plots](GPU_and_data/DataTools/Numpy_examples_with_plots.ipynb)
+* [How to access Oracle database](GPU_and_data/DataTools/Query_Oracle.ipynb)
+* [How to access PostgreSQL database](GPU_and_data/DataTools/Query_PostgreSQL.ipynb)
 
-[gallery_url]:https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/cerndb/NotebooksExamples.git
+[gallery_url]:https://swan-k8s.cern.ch/user-redirect/download?projurl=https://github.com/cerndb/NotebooksExamples.git

@@ -2,7 +2,7 @@
 template: full_width_with_menu.html
 ---
 
-# Basic Examples
+# Basic Root Examples
 
 This is a gallery of basic example notebooks: click on the images to inspect the underlying document, open in SWAN the single notebooks or the full git repository!
 
@@ -18,8 +18,5 @@ Many of the notebooks are ROOTbooks, based on the ROOT framework. To know more a
 * [3D Visualisation](basic/notebooks/Geometry_Visualisation_cpp/Geometry_Visualisation_cpp.ipynb?clone_folder=True)
 * [CMS Opendata: di-muon analysis](basic/notebooks/CMSDimuon_py.ipynb)
 * [Fastjet (Interactive usage of 3rd party libraries)](basic/notebooks/FastjetInteractive.ipynb)
-* [Pandas](basic/notebooks/pandas.ipynb)
-* [IPywidgets](basic/notebooks/WidgetBasics.ipynb)
-
 
 [gallery_url]:https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/dpiparo/swanExamples.git
