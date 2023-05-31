@@ -7,10 +7,11 @@ template: full_width_with_menu.html
 This gallery contains examples of how to use the most common open-source Deep Learning frameworks with SWAN.    
 The notebooks are intended to be run using GPU resources.  
 To use GPU resources in SWAN, you need to:
-- open a ticket with the SWAN team to get access to GPU resources
-- use SWAN from [https://swan-k8s.cern.ch](https://swan-k8s.cern.ch)
-- select a software stack with GPU
-  - to get the latest version of the tools used here select the 'bleeding edge' software stack
+  
+* Open a ticket with the SWAN team to get access to GPU resources
+* Use SWAN from [https://swan-k8s.cern.ch](https://swan-k8s.cern.ch)
+* Select a software stack with GPU
+  * Note, to get the latest version of the tools used here select the 'bleeding edge' software stack
 
 [<img class="open_in_swan" data-path="apache_spark1" data-name="SWAN: Spark connector and monitor" alt="Open this Gallery in SWAN" src="https://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png">][gallery_url]
 
@@ -32,10 +33,11 @@ This is to illustrate the use of the Transformers library from Hugging Face for 
 
 ## Deep Learning and basic Data pipelines
 These notebooks provide examples of how to integrate Deep Learning frameworks with some basic data pipelines using Pandas to feed data into the DL training step.  
-They implement a simple Particle classifier using different DL frameworks. The data is stored in Parquet format, which is a columnar format that is very efficient for reading data,
-it processed using Pandas, and then fed into the DL training step.
+They implement a simple Particle classifier using different DL frameworks. The data is stored in Parquet format, which is a columnar format that is very efficient for reading,
+it is processed using Pandas, and then fed into the DL training step.
+<br>
 ![][classifier_image]
-
+<br>
 * [TensorFlow classifier with Pandas](GPU_and_data/DeepLearning-GPU/TensorFlow_Keras_HLF_with_Pandas_Parquet.ipynb)
 * [Pytorch classifier with Pandas](GPU_and_data/DeepLearning-GPU/PyTorch_HLF_with_Pandas_Parquet.ipynb)
 * [Pytorch Lightning classifier with Pandas](GPU_and_data/DeepLearning-GPU/PyTorch_Lightning_HLF_with_Pandas_Parquet.ipynb)
@@ -49,11 +51,11 @@ the Petastorm library to read data from Parquet files with TensorFlow and PyTorc
 * [PyTorch and Petastorm](GPU_and_data/DeepLearning-GPU/PyTorch_HLF_with_Petastorm_Parquet.ipynb)
 * [TensorFlow with TFRecord](GPU_and_data/DeepLearning-GPU/TensorFlow_Keras_HLF_with_TFRecord.ipynb)
 
-[gallery_url]:https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/cerndb/NotebooksExamples.git
-[classifier_image]:https://github.com/cerndb/SparkDLTrigger/raw/master/Docs/Physics_use_case.png
-
 ## Additional complexity with models and data
 This example implements the same particle classifier as in the previous examples, but with a more complex model
 and bigger data set.
 
 * [TensorFlow for the Inclusive Classifier, with GRU and TFRecord](GPU_and_data/DeepLearning-GPU/TensorFlow_Inclusive_Classifier_TFRecord.ipynb)
+
+[gallery_url]:https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/cerndb/NotebooksExamples.git
+[classifier_image]:https://github.com/cerndb/SparkDLTrigger/raw/master/Docs/Physics_use_case.png
