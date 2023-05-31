@@ -28,5 +28,5 @@ nav:
   - apache_spark.md
   - deeplearning-GPU.md
   - datatools.md
-  - outreach.md
-  - awake.md
+  # - outreach.md
+  # - awake.md
