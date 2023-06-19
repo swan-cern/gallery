@@ -30,3 +30,4 @@ nav:
   - apache_spark.md
   - datatools.md
   - deeplearning-GPU.md
+  - aitools.md
