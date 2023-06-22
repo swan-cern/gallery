@@ -25,14 +25,16 @@ This is to illustrate the use of the Transformers library from Hugging Face for 
 * [Transformers for speech recognition](GPU_and_data/AITools/Transformers_speech_recognition.ipynb)
 
 ## Large Language Models
-These notebooks provide examples of how to use LLMs in notebook environments for tests and prototyping
+These notebooks provide examples of how to use LLMs in notebook environments for tests and prototyping  
+
 * [Transformers Large Language Models](GPU_and_data/AITools/Transformers_Large_Language_Models.ipynb)
 * [LangChain LLMs](GPU_and_data/AITools/LangChain_LLMs.ipynb)
 
 ## Semantic search with Vector Databases and LLM
 Semantic search allows to query a set of documents. This examples shows how to create
 vector embeddings, store them in a vector database, and perform semantic queries enhanced with LLM.  
-The vector database used in this example is OpenSearch, available as a service for CERN users.
+The vector database used in this example is OpenSearch, available as a service for CERN users.  
+
 * [Semantic search with Vector Databases and LLM](GPU_and_data/AITools/LangChain_OpenSearch_semantic_search_with_Vector_DB.ipynb)
   
 [gallery_url]:https://swan-k8s.cern.ch/user-redirect/download?projurl=https://github.com/cerndb/NotebooksExamples.git
