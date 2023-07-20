@@ -1,5 +1,6 @@
 ---
-template: full_width_with_menu.html
+hide:
+  - toc
 ---
 
 # Basic Root Examples
