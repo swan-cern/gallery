@@ -6,10 +6,6 @@
 	path = root_primer
 	url = https://github.com/root-project/training.git
 	branch = master
-[submodule "accelerator_complex"]
-	path = accelerator_complex
-	url = https://gitlab.cern.ch/scripting-tools/pytimber.git
-	branch = master
 [submodule "lhc-sm"]
 	path = lhc-sm
 	url = https://gitlab.cern.ch/LHCData/lhc-sm-apps.git
@@ -32,3 +28,6 @@
 [submodule "GPU_and_data"]
 	path = GPU_and_data
 	url = https://github.com/cerndb/NotebooksExamples.git
+[submodule "accelerator_complex"]
+	path = accelerator_complex
+	url = https://gitlab.cern.ch/acc-logging-team/nxcals-examples.git
