@@ -9,8 +9,7 @@ This gallery contains examples of how to use the most common open-source Deep Le
 The notebooks are intended to be run using GPU resources.  
 To use GPU resources in SWAN, you need to:
   
-* Open a ticket with the SWAN team to get access to GPU resources
-* Use SWAN from [https://swan-k8s.cern.ch](https://swan-k8s.cern.ch)
+* Access SWAN from you browser: [https://swan.cern.ch](https://swan.cern.ch)
 * Select a software stack with GPU
   * Note, to get the latest version of the tools used here select the 'bleeding edge' software stack
 
