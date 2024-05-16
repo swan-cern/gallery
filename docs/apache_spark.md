@@ -22,9 +22,9 @@ See also the online, self-paced [training course on Apache Spark.][course]
 ## Running Spark on CERN Hadoop clusters
 
 * [Analytix cluster: Example of Spark on Hadoop](SparkTraining/notebooks/Demo_Spark_on_Hadoop.ipynb)
-* [Analytix cluster: How to run the TPC-DS benchmark at scale with Spark and Hadoop](SparkTraining/blob/master/notebooks/TPCDS_PySpark_CERN_SWAN_getstarted.ipynb)
+* [Analytix cluster: How to run the TPC-DS benchmark at scale with Spark and Hadoop](SparkTraining/notebooks/TPCDS_PySpark_CERN_SWAN_getstarted.ipynb)
 * [NXCALS: Spark for analyzing LHC logging data](SparkTraining/notebooks/NXCals-example.ipynb)
-* [NXCALS: Spark vector data and timestamps](SparkTraining/blob/master/notebooks/NXCals-example_bis.ipynb)
+* [NXCALS: Spark vector data and timestamps](SparkTraining/notebooks/NXCals-example_bis.ipynb)
 
 ## Spark and LHC experiments' Open Data
 
