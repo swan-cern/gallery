@@ -33,6 +33,7 @@ plugins:
   - swangallery:
       gallery_url: https://swan-gallery.web.cern.ch
       open_in_swan_url: https://cern.ch/swanserver/cgi-bin/go?projurl=
+  - material/search:
 
 # Navigation menu
 nav:
