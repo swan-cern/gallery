@@ -1,2 +1,2 @@
-mkdocs-swan>=0.5.0
+mkdocs-swan>=0.5.1
 mkdocs-swangallery
