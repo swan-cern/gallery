@@ -37,4 +37,4 @@ The vector database used in this example is Open Search with the k-NN plugin, av
 
 * [Semantic search with Vector Databases and LLM](GPU_and_data/AITools/LangChain_OpenSearch_semantic_search_with_Vector_DB.ipynb)
   
-[gallery_url]:https://swan-k8s.cern.ch/user-redirect/download?projurl=https://github.com/cerndb/NotebooksExamples.git
+[gallery_url]:https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/cerndb/NotebooksExamples.git

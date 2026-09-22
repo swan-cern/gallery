@@ -50,7 +50,7 @@ These examples implement the same particle classifier as in the previous example
 and bigger data set.
 
 * [TensorFlow for the Inclusive Classifier, with GRU and TFRecord](GPU_and_data/DeepLearning-GPU/TensorFlow_Inclusive_Classifier_GRU_TFRecord.ipynb)
-* [TensorFlow for the Inclusive Classifier, with GRU and TFRecord](GPU_and_data/DeepLearning-GPU/TensorFlow_Inclusive_Classifier_Transformer_TFRecord.ipynb)
+* [TensorFlow for the Inclusive Classifier, with Transformer and TFRecord](GPU_and_data/DeepLearning-GPU/TensorFlow_Inclusive_Classifier_Transformer_TFRecord.ipynb)
 
-[gallery_url]:https://swan-k8s.cern.ch/user-redirect/download?projurl=https://github.com/cerndb/NotebooksExamples.git
+[gallery_url]:https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/cerndb/NotebooksExamples.git
 [classifier_image]:https://github.com/cerndb/SparkDLTrigger/raw/master/Docs/Physics_use_case.png
