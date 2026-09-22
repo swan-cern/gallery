@@ -20,4 +20,4 @@ Contact Oracle and DBOD sevices at CERN to get access to databases for testing, 
 * [How to access Oracle database](GPU_and_data/DataTools/Query_Oracle.ipynb)
 * [How to access PostgreSQL database](GPU_and_data/DataTools/Query_PostgreSQL.ipynb)
 
-[gallery_url]:https://swan-k8s.cern.ch/user-redirect/download?projurl=https://github.com/cerndb/NotebooksExamples.git
+[gallery_url]:https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/cerndb/NotebooksExamples.git
