@@ -14,4 +14,4 @@ This gallery shows examples of machine studies relative to the CERN accelerators
 * [PyTimber Tutorial](accelerator_complex/swan-pytimber-gallery/PyTimber_Tutorial.ipynb)
 * [SPS Intensity](accelerator_complex/swan-pytimber-gallery/SPS_Intensity.ipynb)
 
-[gallery_url]:https://cern.ch/swanserver/cgi-bin/go/?projurl=https://gitlab.cern.ch/acc-logging-team/nxcals-examples.git
+[gallery_url]:https://cern.ch/swanserver/cgi-bin/go?projurl=https://gitlab.cern.ch/acc-logging-team/nxcals-examples.git
