@@ -28,4 +28,4 @@ This is a gallery of basic example notebooks about beam dynamics. The library us
 
 
 [pyheadtail]:https://github.com/PyCOMPLETE/PyHEADTAIL/wiki
-[gallery_url]:https://cern.ch/swanserver/cgi-bin/go/?projurl=https://github.com/PyCOMPLETE/PyHEADTAIL-playground.git
+[gallery_url]:https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/PyCOMPLETE/PyHEADTAIL-playground.git

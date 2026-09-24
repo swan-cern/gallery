@@ -14,4 +14,4 @@ These notebooks exemplify the usage of AWAKE analysis tools.
 * [PyAwake Tutorial](awake/ExampleNotebookpyAwake.ipynb)
 * [Awake Analysis Tools](awake/ExampleNotebookAwakeAnalysisTools.ipynb)
 
-[gallery_url1]:https://cern.ch/swanserver/cgi-bin/go/?projurl=https://github.com/prasanthkothuri/awake-notebooks.git
+[gallery_url1]:https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/prasanthkothuri/awake-notebooks.git
